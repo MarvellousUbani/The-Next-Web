@@ -471,7 +471,7 @@ main {
     text-decoration: none;
 }
 
-#womanDancing {
+.womanDancing {
     height: 100px;
     float: right;
     object-fit: cover;
